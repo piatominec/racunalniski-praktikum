@@ -1,7 +1,7 @@
 # Računalniški praktikum
-ctrl c .... copy
-ctrl v .... paste
-ctrl s .... save
-ctrl n .... 
-ctrl o ....
+ctrl + c .... kopiraj
+ctrl + v .... prilepi
+ctrl + s .... shrani
+ctrl + n .... odpre novo mapo
+ctrl + a .... označi vse
 dopolni README
