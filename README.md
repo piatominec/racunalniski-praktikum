@@ -1,4 +1,4 @@
-# racunalniski-praktikum
+# Računalniški praktikum
 ctrl + c --> kopiraj
 ctrl + v --> prilepi
 crtl + s --> shrani
