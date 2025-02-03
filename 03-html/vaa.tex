@@ -1,0 +1,57 @@
+\documentclass{article} % Osnovna vrsta dokumenta
+
+% Paketi za dodatne funkcije
+\usepackage[utf8]{inputenc} % Podpora za UTF-8 znake
+\usepackage[T1]{fontenc} % Pravilna kodirna shema za izhodne datoteke
+\usepackage{amsmath} % Paket za matematične formule
+
+\title{Osnovni dokument v LaTeXu}
+\author{Vaše ime}
+\date{\today} % Trenutni datum
+
+\begin{document}
+\author{UrosT}
+
+% Glava dokumenta (naslov, avtor, datum)
+\maketitle
+
+\maketitle % Glava dokumenta (naslov, avtor, datum)
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.5\textwidth]{path/to/your/image.jpg}
+    \caption{Opis slike}
+    \label{fig:sample-image}
+\end{figure}
+\section{Uvod}
+To je osnovni LaTeX dokument. Tukaj prikazujemo, kako lahko oblikujemo besedilo, uporabimo matematične formule ter vključimo več razdelkov v dokumentu.
+
+\section{Matematične formule}
+LaTeX je odličen za prikaz matematičnih izrazov. Na primer, kvadratna enačba je:
+\[
+ax^2 + bx + c = 0
+\]
+Rešimo jo z uporabo formule:
+\[
+x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
+\]
+
+\section{Seznami}
+Prav tako lahko dodamo sezname:
+\subsection{Oštevilčen seznam}
+\begin{enumerate}
+    \item Prva točka
+    \item Druga točka
+    \item Tretja točka
+\end{enumerate}
+
+\subsection{Neoštevilčen seznam}
+\begin{itemize}
+    \item Prva postavka
+    \item Druga postavka
+    \item Tretja postavka
+\end{itemize}
+
+\section{Zaključek}
+To je kratek primer LaTeX dokumenta. Z uporabo različnih paketov in ukazov lahko oblikujemo profesionalne dokumente.
+
+\end{document}

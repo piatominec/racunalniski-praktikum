@@ -1,11 +1,5 @@
-# Računalniški praktikum
-ctrl + c --> kopiraj
-ctrl + v --> prilepi
-crtl + s --> shrani
-ctrl + n --> nova mapa
-ctrl + shift + v --> preview
-ctrl + a
+# Pregledne datoteke za LaTeX
 
+Avtor: Andrej Bauer
 
-
-" 2. domača naloga
+V arhivu jih študentje dobijo pri prvih vajah za LaTeX.
